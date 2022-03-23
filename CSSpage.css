@@ -1,0 +1,82 @@
+body{
+	background-image: url(https://marketplace.canva.com/EAD2962NKnQ/2/0/1600w/canva-rainbow-gradient-pink-and-purple-zoom-virtual-background-_Tcjok-d9b4.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+h1{
+	font-family: permanent marker;
+	font-size: 3em;
+	color: black;
+}
+.form{
+	border-width: 3px;
+	border-style: dotted;
+	border-color: black;
+	background-color: lightblue;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+h2{
+	font-family: permanent marker;
+	font-size: 2em;
+	margin-left: 100px;
+}
+.catalogue{
+	border-width: 3px;
+	border-style: solid;
+	border-color: lightpink;
+	background-color: lightblue;
+	margin-right: 50px;
+	margin-left: 50px;
+	font-size: 20px;
+}
+.image{
+	width: 352px;
+	height: 200px;
+}
+.video{
+	width:704px;
+	height: 400px;
+}
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: center;
+}
+.majoringredients{
+	background-color: lightblue;
+	color: black;
+}
+.minoringredients{
+	background-color: lightpink;
+	color: black;
+}
+.navigation{
+	background-color: mediumpurple;
+	color: black;
+	text-decoration: none;
+	margin-left: -5px;
+	padding: 10px;
+}
+ul{
+	margin-left: -50px;
+	margin-top: -1px;
+}
+.navigation:hover{
+	background-color: pink;
+}
+h4{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+.column{
+			float: left;
+			width: 33%;
+			text-align: center;
+}
+.submit{
+	width: 75px; 
+	height: 30px;
+}
